@@ -1,4 +1,4 @@
-# comics-downloader
+# Comics-downloader
 I made a python program to download comics from **https://readcomiconline.li/** in *cbr/png* format.
 
 Instructions for installation:
